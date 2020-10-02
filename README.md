@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on a Sweden startup.
+🔭 I'm currently working on a Sweden startup. <br />
 🌱 I'm currently improving my React skills, Gatsby, and JavaScript. Who can say that we are eve finished with them?
 
 <!--
