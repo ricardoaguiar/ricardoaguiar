@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on a Sweden startup.
 🌱 I'm currently improving my React skills, Gatsby, and JavaScript.
-😄 I signed up for EpicReact and JavaScripTesting.
+😄 I signed up for EpicReact and JavaScripTesting with KCD and Master Gatsby with Wes Bos.
 ⚡ It is never too late to start, as long you start and keep it consistent. 
 
 
