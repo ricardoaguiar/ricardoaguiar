@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on a Sweden startup. <br />
+🔭 I'm currently working on a Sweden startup.
 🌱 I'm currently improving my React skills, Gatsby, and JavaScript.
 😄 I signed up for EpicReact and JavaScripTesting.
 ⚡ It is never too late to start, as long you start and keep it consistent. 
