@@ -7,11 +7,7 @@
 😄 I signed up for EpicReact and JavaScripTesting with KCD and Master Gatsby with Wes Bos.
 ⚡ It is never too late to start, as long you start and keep it consistent. 
 
- <ul class="list-group">
-  <li class="list-group-item">First item</li>
-  <li class="list-group-item">Second item</li>
-  <li class="list-group-item">Third item</li>
-</ul> 
+ 
 
 <!--
 **ricardoaguiar/ricardoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
