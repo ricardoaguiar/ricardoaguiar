@@ -6,6 +6,11 @@
 ⚡ It is never too late to start, as long you start and keep it consistent. 
 
 
+### 🔧 Skills
+
+![](https://img.shields.io/badge/<JS>-<JAVASCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 <!--
 **ricardoaguiar/ricardoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
