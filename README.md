@@ -8,6 +8,7 @@
 ⚡ It is never too late to start, as long you start and keep it consistent. 
 
 
+<button type="button" class="btn btn-primary">Primary</button>
 
 <!--
 **ricardoaguiar/ricardoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
