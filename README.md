@@ -7,7 +7,6 @@
 😄 I signed up for EpicReact and JavaScripTesting with KCD and Master Gatsby with Wes Bos.
 ⚡ It is never too late to start, as long you start and keep it consistent. 
 
-<button class=btn>button</button>
 
 
 <!--
