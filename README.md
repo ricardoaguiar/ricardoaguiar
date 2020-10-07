@@ -5,8 +5,6 @@
 😄 I signed up for EpicReact and JavaScripTesting with KCD and Master Gatsby with Wes Bos.
 ⚡ It is never too late to start, as long you start and keep it consistent. 
 
- <p class="markdown-body p {margin=bottom:"100px"}">this is a p</p>
-
 <!--
 **ricardoaguiar/ricardoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
