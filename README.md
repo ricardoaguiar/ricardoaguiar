@@ -6,6 +6,9 @@
 ⚡ It is never too late to start, as long you start and keep it consistent. 
 
 
+<ul>
+  <li>this is a li</li>  
+<ul>
 
 <!--
 **ricardoaguiar/ricardoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
