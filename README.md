@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on a Sweden startup.
-🌱 I'm currently improving my React skills, Gatsby, and JavaScript.
-😄 I signed up for EpicReact and JavaScripTesting with KCD and Master Gatsby with Wes Bos.
-⚡ It is never too late to start, as long you start and keep it consistent. 
+🔭 I'm currently working on a Sweden startup that help farmers offset costs by renting equipment to other farmers. 
 
 <!--
 **ricardoaguiar/ricardoaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
