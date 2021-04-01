@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on a Sweden startup that help farmers offset costs by renting equipment to other farmers. 
+🔭 I'm currently working with a Danish startup on a new Social Social Media App.  
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ricardoaguiar&show_icons=true&theme=radical)
 
