@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🔭 Taking a summer break before I start the next thing.  
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ricardoaguiar&show_icons=true&theme=radical)
 
