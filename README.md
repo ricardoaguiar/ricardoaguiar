@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software developer specializing in ecommerce applications, working with frameworks like Vue, Nuxt, and Umbraco on the backend.
+
 <!--
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ricardoaguiar&show_icons=true&theme=radical)
